@@ -1,0 +1,19 @@
+body{
+    color: #f5f5dd
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    background-color: black;
+}
+#sq2{
+    background: rgba(0, 0, 0, 0.80)
+}
+#sq3{
+    background: rgba(0, 0, 0, 0.50)
+}
+#sq4{
+    background: rgba(0, 0, 0, 0.20)
+}
